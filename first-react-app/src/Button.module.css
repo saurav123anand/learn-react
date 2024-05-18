@@ -1,0 +1,8 @@
+.button{
+    display: inline-block;
+    padding: 12px 13px;
+    background-color: blue;
+    border-radius: 23px;
+    outline: none;
+    font-family: 'Courier New', Courier, monospace;
+}
