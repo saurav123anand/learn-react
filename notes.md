@@ -7,7 +7,7 @@ ex: const Nav=styled.div`
 `
 use it using <Nav>hello there </Nav>
 
-->> for ynamic styling 
+->> for dynamic styling 
 ex: const Nav=styled.div`
   width:100%;
   background-color:${(props)=>props.myColor}
